@@ -1,0 +1,32 @@
+
+- Abrir um projeto pré-existente (open) (importar)
+- Pegar o projeto de um versionamento (get from VCS): essa opção permite pegar um projeto que exista no seu gitHUB através do link e trazê-lo para edição no IntelliJ (criar um clone)
+
+- Na aba "customize", é possível personalizar o tema do IntelliJ, o tamanho da fonte do IDE
+- Na aba "plugins", é possível instalar pluggins adicionais. sugestestão para mais tarde: (kit promoter).
+- Na aba "Learn IntelliJ IDEA", temos acesso a um "manual de instruções".
+
+- Para criar o primeiro projeto, iremos em "New Project". Na janela que se abre, nos é perguntado a linguagem que utilizaremos no projeto. Selecionamos java e next, deixando em branco
+as opções que surgirem, como groovy e kotlin.
+
+- A opção "create project from template" nos dará pronto o "cabeçalho" padrão de um código java (public static void main). Podemos ou não selecioná-la.
+
+- Já com o projeto aberto, selecione "src" e pressione alt+insert. Selecione packaged para criar um novo pacote. Selecione agora o pacote que você criou e crie nele a classe "primeiro programa>
+
+- Como não selecionamos a opção que nos daria o cabeçalho, basta digitar "main" para que ele apareça. Digitando "sout" e dando enter, temos o comando de impressão.
+
+- Com crtl+shift+F10, o programa está pronto para ser executado. Após a primeira execução, basta apertar shift+f10 para rodar outras vezes.
+
+- Com ctrl+shift+/, todo o bloco selecionado é comentado. Com ctrl+/, todas as linhas são comentadas.
+
+- Com alt+enter, classes são importadas. Com ctrl+alt+O, classes importadas são removidas. Com ctrl+Y, uma linha é deletada.
+
+- Com Shift+f12, o menu é fechado. Com shift+f6, você pode editar o nome do seu projeto. Com ctrl+alt+L, todo o código é organizado automaticamente. 
+
+- Com Ctrl+D, as linhas podem ser duplicadas.
+
+- Com ctrl+shift+seta_pra_cima, você move livremente as linhas.
+
+- Por último, acessando a aba "VCS" e, em seguida, "enable version control..", depois git, é possível adicionar o programa a um repositório.
+
+- Para comitar, basta clicar em VCS novamente ou utilizar o atalho ctrl+k. obs: parei no minuto 5 da segunda aula. 
